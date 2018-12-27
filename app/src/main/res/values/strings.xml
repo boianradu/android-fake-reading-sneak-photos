@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fakereading-SneakyPhotos</string>
+    <string name="btn_text_prev">prev</string>
+    <string name="btn_text_buy">buy full version</string>
+    <string name="btn_text_next">next</string>
+    <string name="preference_file_key">preference_file_name</string>
+</resources>
